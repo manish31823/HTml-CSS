@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    background-color: aqua;
+    color: brown;
+}
+p{
+    font-size: 20px;
+    background-color: aqua;
+    font-style: italic;
+    
+}
+span{
+    background-color: brown;
+    color: aquamarine;
+}
