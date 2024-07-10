@@ -1,0 +1,31 @@
+*{
+    font-size: 15px;
+}
+p{
+    color: rgb(255, 178, 127);
+    background-color: rgb(255, 240, 240);
+} 
+
+#para1{
+    color: brown;
+    background-color: palegreen;
+}
+
+/* Grouping of selector */
+h1,h2{
+    background-color: aqua;
+    color: aliceblue;
+    column-gap: 0cm;
+    margin: 5px;
+}
+/* class selector*/
+.para2{
+    background-color: black;
+    color: beige;
+
+}
+/* id selector*/
+#para3{
+    color: rgb(234, 13, 13);
+    background-color: rgb(22, 235, 22);
+}
