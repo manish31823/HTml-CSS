@@ -1,0 +1,23 @@
+h1{
+    color: aqua;
+    border: 2px solid black;
+}
+
+h2{
+    color: orange;
+    border: 2px solid rgb(120, 39, 227);
+}
+
+h3{
+    color: rgba(180, 220, 80, 230);
+
+}
+
+h4{
+    color: #0c794a;
+}
+
+h5{
+    color: hsl(0, 110%, 50%);
+    background-color: hsla(41, 100%, 44%, 0.5);
+}
