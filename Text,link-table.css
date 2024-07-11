@@ -1,0 +1,59 @@
+/*css-text*/
+/*h1{
+  color: blueviolet;
+  background-color: aqua;
+  text-align: center;
+
+}
+
+p{
+  color: rgb(233, 178, 0);
+  text-align: justify;
+
+}*/
+/* css-lists
+ul.a{
+  list-style: square;
+}
+ul.b{
+  list-style-type: circle;
+}
+ol.c{
+  list-style-type: lower-greek;
+}
+ol.d{
+  list-style-type: georgian;
+}*/
+
+/*CSS table
+#Customers{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+#Customers td,#Customers th{
+  border: 1px solid #dddd;
+  padding: 5px;
+}
+#Customers th{
+  padding: 12px 0px;
+  background-color: green;
+}
+#Customers tr:nth-child(even){
+  background-color: aqua;
+}
+#Customers tr:hover{
+  background-color: #b31111dd;
+}*/
+a:hover{
+  background-color: aquamarine;
+}
+a:link{
+  color: #e72a2add;
+  text-decoration: none;
+}
+a:active{
+  color: rgb(192, 194, 255);
+}
+a:visited{
+  color: aqua;
+}
